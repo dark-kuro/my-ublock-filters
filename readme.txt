@@ -22,3 +22,4 @@ kwik.cx##.plyr__poster
 
 ! 12/27/2019 https://hanime.tv
 hanime.tv##.parallax-container
+facebook.com##[id^="hyperfeed_story_id"]:has-text(/Paid Partner|Suggested|Sponsored/)
